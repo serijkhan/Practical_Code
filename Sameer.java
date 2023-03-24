@@ -4,6 +4,10 @@ public class Demo{
 System.out.println("hello");
   
   System.out.println("world");
+  
+  int a;
+  int b;
+  return c;
 
 }
 }
