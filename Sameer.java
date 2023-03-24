@@ -7,6 +7,7 @@ System.out.println("hello");
   
   int a;
   int b;
+  int a+b;
   return c;
 
 }
